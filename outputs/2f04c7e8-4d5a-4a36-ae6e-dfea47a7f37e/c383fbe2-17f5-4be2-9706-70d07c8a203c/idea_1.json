@@ -1,0 +1,49 @@
+{
+  "idea_index": 1,
+  "caption": "Tired of your liner playing disappearing acts? We get it. That's why we engineered something different. No more mid-day meltdowns or smudged regrets. Just sharp lines that stick with you, no matter what the city throws your way. ✨",
+  "hashtags": [
+    "EyelinerGoals",
+    "SmudgeProof",
+    "UrbanBeauty",
+    "BeautyHack",
+    "NoMoreBetrayal",
+    "BoldEyes",
+    "MakeupFix"
+  ],
+  "hook": {
+    "text": "Seriously, how many times has your eyeliner ghosted you mid-day?",
+    "duration_seconds": 3
+  },
+  "cta": {
+    "text": "Link in bio to reclaim your line.",
+    "placement": "end"
+  },
+  "script": [
+    {
+      "scene": 1,
+      "visuals": "A young woman (early 20s, dark hair, hazel eyes, subtle freckles, lean build), dressed in stylish street clothes, stands under a vibrant, graffiti-covered wall in a bustling urban alley. A light drizzle starts. She's just shared an intense laugh with off-screen friends. She pulls out her phone, opens the camera for a quick selfie, and sees her previously sharp black eyeliner is smudged badly under her eyes and at the outer corners, creating a raccoon-like effect. Her initially joyful expression shifts to a genuinely annoyed and frustrated grimace. A subtle accessory (e.g., scarf or earring) features brand color #4f8ef7.",
+      "voiceover": "Seriously, how many times has your eyeliner ghosted you mid-day? One laugh, one drop of rain, and boom. Gone.",
+      "duration_seconds": 8,
+      "use_character": true,
+      "character_details": {
+        "eye_color": "hazel",
+        "facial_details": "subtle freckles",
+        "physical_details": "lean, athletic build",
+        "facial_expression": "initially joyful, then frustrated grimace"
+      },
+      "lighting_conditions": {
+        "camera_angle": "medium shot",
+        "camera_type": "DSLR",
+        "lighting_mode": "soft natural light",
+        "lighting_position": "side-lit",
+        "camera_movement": "static"
+      },
+      "visual_direction": {
+        "color_usage": "vibrant street art in background, pop of brand color (#4f8ef7) in character's accessory",
+        "transition": "match cut",
+        "pacing": "slow cinematic"
+      }
+    }
+  ],
+  "generated_scenes": []
+}

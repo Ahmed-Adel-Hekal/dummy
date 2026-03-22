@@ -1,0 +1,72 @@
+{
+  "idea_index": 1,
+  "caption": "Ever felt like data was speaking a different language? You're not alone, and that's okay. The future of data literacy isn't about memorizing complex terms, it's about clear, simple explanations. We're forecasting a major shift by 2026 where understanding 'ANOVA' or 'Regression' will be as easy as watching a short, fun video. Get ready for data to finally make sense. #DataTrends #SimplifyData #FutureOfLearning #DataLiteracy #EmpatheticLearning",
+  "hashtags": [
+    "DataTrends",
+    "SimplifyData",
+    "FutureOfLearning",
+    "DataLiteracy",
+    "EmpatheticLearning"
+  ],
+  "hook": {
+    "text": "That confusing data jargon? It's about to change.",
+    "duration_seconds": 3
+  },
+  "cta": {
+    "text": "Simplify Data",
+    "placement": "end"
+  },
+  "script": [
+    {
+      "scene": 1,
+      "visuals": "Close-up on a person's face, slightly furrowed brow, looking contemplative against a minimalist white void background. White text overlays appear one by one: 'ANOVA?' then 'Regression?'. The text briefly highlights with brand color #4f8ef7 as it appears.",
+      "voiceover": "Remember that feeling when terms like 'ANOVA' or 'Regression' just sounded like a foreign language?",
+      "duration_seconds": 8,
+      "use_character": true,
+      "character_details": {
+        "eye_color": "brown",
+        "facial_details": "slight wrinkles around eyes, thoughtful expression",
+        "physical_details": "medium length dark hair, wearing a comfortable, plain sweater",
+        "facial_expression": "contemplative, slightly furrowed brow"
+      },
+      "lighting_conditions": {
+        "camera_angle": "close-up",
+        "camera_type": "DSLR",
+        "lighting_mode": "soft natural light",
+        "lighting_position": "side-lit",
+        "camera_movement": "static"
+      },
+      "visual_direction": {
+        "color_usage": "brand color #4f8ef7 for text highlights; otherwise minimalist white void",
+        "transition": "match cut",
+        "pacing": "slow"
+      }
+    },
+    {
+      "scene": 2,
+      "visuals": "Match cut from the close-up to a wider, medium shot of the same person. They are now slightly slumped, subtly sighing, looking at a blank white screen with an abstract, chaotic animation of a blue line (using #4f8ef7) moving across it, representing confusion. Text overlay: 'Feeling lost is valid.'",
+      "voiceover": "It’s okay if those words felt like a barrier. For too long, data felt exclusive, hidden behind complex jargon.",
+      "duration_seconds": 8,
+      "use_character": true,
+      "character_details": {
+        "eye_color": "brown",
+        "facial_details": "slight wrinkles around eyes",
+        "physical_details": "medium length dark hair, wearing a comfortable, plain sweater",
+        "facial_expression": "subtly overwhelmed, slight sigh"
+      },
+      "lighting_conditions": {
+        "camera_angle": "medium shot",
+        "camera_type": "DSLR",
+        "lighting_mode": "soft natural light",
+        "lighting_position": "side-lit",
+        "camera_movement": "slow zoom out"
+      },
+      "visual_direction": {
+        "color_usage": "brand color #4f8ef7 for abstract animation; minimalist white void background",
+        "transition": "match cut",
+        "pacing": "slow"
+      }
+    }
+  ],
+  "generated_scenes": []
+}

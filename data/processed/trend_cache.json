@@ -1,0 +1,306 @@
+{
+  "a62d805f06127d0861d783130f416dc7a79a72736e67d8336123641aa568b86d": {
+    "ts": 1774154673,
+    "result": {
+      "top_trends": [
+        {
+          "topic": "Software developers don't need to out-last vibe coders, we just need to out-last the ability of AI companies to charge absurdly low for their products",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/webdev momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 96.2,
+          "confidence_level": "high"
+        },
+        {
+          "topic": "AI really killed programming for me",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/webdev momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 96.2,
+          "confidence_level": "high"
+        },
+        {
+          "topic": "Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P]",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/MachineLearning momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 96.2,
+          "confidence_level": "high"
+        },
+        {
+          "topic": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 97.0,
+          "confidence_level": "high"
+        },
+        {
+          "topic": "Rethinking Prompting: Getting AI to Work for You",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage instagram_sme momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 94.0,
+          "confidence_level": "high"
+        },
+        {
+          "topic": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage linkedin_tech momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 94.0,
+          "confidence_level": "high"
+        },
+        {
+          "topic": "langchain-ai / langchain — The agent engineering platform",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage github_trending momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 94.0,
+          "confidence_level": "high"
+        },
+        {
+          "topic": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/technology momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 71.2,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "Benjamin Netanyahu is struggling to prove he’s not an AI clone",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/technology momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 71.2,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "OpenCode – Open source AI coding agent",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 72.0,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "Instagram Reels for business in 2026: Best practices + examples",
+          "trend_strength": "medium",
+          "content_format": "post",
+          "marketing_angle": "Leverage instagram_hootsuite momentum",
+          "hook_style": "question",
+          "forecast": "future_trend",
+          "confidence_score": 54.0,
+          "confidence_level": "low"
+        },
+        {
+          "topic": "Instagram marketing for small business: A strategic guide to sustainable growth",
+          "trend_strength": "medium",
+          "content_format": "post",
+          "marketing_angle": "Leverage instagram_sprout momentum",
+          "hook_style": "question",
+          "forecast": "future_trend",
+          "confidence_score": 54.0,
+          "confidence_level": "low"
+        }
+      ],
+      "keywords": [
+        "grok",
+        "musk",
+        "you",
+        "startup",
+        "software",
+        "new",
+        "data",
+        "tech",
+        "learning",
+        "elon",
+        "news",
+        "show"
+      ],
+      "confidence_summary": {
+        "average_score": 82.5,
+        "high_confidence_count": 7,
+        "medium_confidence_count": 3,
+        "low_confidence_count": 2,
+        "cacheable_for_hours": 24
+      },
+      "cache": {
+        "used": false,
+        "ttl_hours": 24
+      }
+    }
+  },
+  "3aaff8acd5b5c537ec4e401decc09115479ca1e265262ce3874ac56510f50907": {
+    "ts": 1774158378,
+    "result": {
+      "top_trends": [
+        {
+          "topic": "HTML: The complete reference (1998)",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/webdev momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 71.2,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "React XP - My authentic recreation of Windows XP with React &amp; Typescript",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/webdev momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 71.2,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "[P] I got tired of PyTorch Geometric OOMing my laptop, so I wrote a C++ zero-copy graph engine to bypass RAM entirely.",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/MachineLearning momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 71.2,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 72.0,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "How AWS S3 serves 1 petabyte per second on top of slow HDDs",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage reddit/r/webdev momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 71.2,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "The worst volume control UI in the world (2017)",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 72.0,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "Java is fast, code might not be",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 72.0,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "viral",
+          "confidence_score": 72.0,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "Professional video editing, right in the browser with WebGPU and WASM",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 72.0,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost",
+          "trend_strength": "high",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "question",
+          "forecast": "viral",
+          "confidence_score": 72.0,
+          "confidence_level": "medium"
+        },
+        {
+          "topic": "Too Much Color",
+          "trend_strength": "medium",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "shocking statistic",
+          "forecast": "future_trend",
+          "confidence_score": 33.6,
+          "confidence_level": "low"
+        },
+        {
+          "topic": "The Ugliest Airplane: An Appreciation",
+          "trend_strength": "medium",
+          "content_format": "post",
+          "marketing_angle": "Leverage hackernews momentum",
+          "hook_style": "question",
+          "forecast": "future_trend",
+          "confidence_score": 33.6,
+          "confidence_level": "low"
+        }
+      ],
+      "keywords": [
+        "best",
+        "eyeliner",
+        "startup",
+        "eyeliners",
+        "you",
+        "com",
+        "tech",
+        "software",
+        "learning",
+        "data",
+        "trends",
+        "machine"
+      ],
+      "confidence_summary": {
+        "average_score": 65.3,
+        "high_confidence_count": 0,
+        "medium_confidence_count": 10,
+        "low_confidence_count": 2,
+        "cacheable_for_hours": 24
+      },
+      "cache": {
+        "used": false,
+        "ttl_hours": 24
+      }
+    }
+  }
+}
